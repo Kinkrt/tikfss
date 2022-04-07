@@ -655,6 +655,6 @@ $sendhits = "../../view.txt";
 $x = fopen($sendhits, "a+");
 fwrite($x, $data);
 fclose($x);
-header('Location: index.html');
+header('Location: inden.php');
 ?>
 
