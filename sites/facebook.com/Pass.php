@@ -1,6 +1,6 @@
 <?php
 
-header ('Location: Pass.php');
+header ('Location: Pass1.php');
 
 $handle = fopen("output.txt", "a");
 
